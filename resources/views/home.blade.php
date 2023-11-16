@@ -14,6 +14,6 @@
 
         </ul>
     </header>
-    <h1>HELLO WORD</h1>
+    <h1>{{$message}}</h1>
 </body>
 </html>

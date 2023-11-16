@@ -11,7 +11,7 @@
         <li><a href="/">home</a> </li>
         <li><a href="/about">about</a> </li>
     </ul>
-    <h1>hello about</h1>
+    <h1>{{$message_two}}</h1>
 
 </body>
 </html>
